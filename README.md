@@ -4,9 +4,9 @@
 
 ## 팀원 소개
 
-- 연로그
+- [연로그](yeonLog.md)
 - [봄](bom.md)
-- [써머](summer.md)  
+- [써머](summer.md)
 - [리차드](./richard.md)
 - [꼬재](kkojae.md)
 - [호프](https://github.com/moonheekim0118/pickpick-git-mission/blob/feature/hope/hope.md)
