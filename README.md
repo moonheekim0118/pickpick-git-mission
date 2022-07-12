@@ -10,3 +10,7 @@
 - [리차드](./richard.md)
 - [꼬재](kkojae.md)
 - [호프](https://github.com/moonheekim0118/pickpick-git-mission/blob/feature/hope/hope.md)
+
+## 프로젝트 소개
+
+- Slack 메시지를 아카이빙 해주는 서비스 입니다.
