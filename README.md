@@ -9,4 +9,4 @@
 - 써머
 - 리차드
 - 꼬재
-- 호프
+- [호프](https://github.com/moonheekim0118/pickpick-git-mission/blob/feature/hope/hope.md)
